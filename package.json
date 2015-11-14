@@ -1,0 +1,18 @@
+{
+  "name": "karma-gherkin",
+  "version": "0.0.0",
+  "description": "Karma tool for testing using scenarios in Gherkin's Language",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Andres Rios (rianby64@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "gherkin": "^3.1.2",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.15",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-jasmine": "^0.3.6"
+  }
+}
